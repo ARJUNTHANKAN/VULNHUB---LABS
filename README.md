@@ -1,2 +1,1 @@
-# VULNHUB---LABS
-LABS 
+
